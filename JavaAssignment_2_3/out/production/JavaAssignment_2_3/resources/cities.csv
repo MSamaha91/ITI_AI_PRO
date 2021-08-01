@@ -1,0 +1,68 @@
+city,country code,continent,population
+Cordoba,ARG,South America,1329604
+Buenos Aires,ARG,South America,16157000
+Sydney,AUT,Australia ,5312163
+Melbourne,AUT,Australia ,5078193
+Brisbane,AUT,Australia ,2514184
+Dhaka,BAN,Asia,15443000
+Sao Paulo,BRA,South America,22046000
+Rio de Janeiro,BRA,South America,12272000
+Toronto,CAN,North America,5429524
+Guangzhou,CHN,Asia,20902000
+Beijing,CHN,Asia,19433000
+Cairo,EGY,Africa,19372000
+Alexandria,EGY,Africa,4870000
+Mansoura,EGY,Africa,439348
+Damietta,EGY,Africa,206664
+Suez,EGY,Africa,485342
+Luxor,EGY,Africa,202232
+Aswan,EGY,Africa,267913
+Paris,FRA,Europe,11020000
+Nice,FRA,Europe,1006402
+Hamburg,GER,Europe,1841179
+Stuttgart,GER,Europe,634830
+Frankfurt,GER,Europe,753056
+Berlin,GER,Europe,3644826
+Delhi,IND,Asia,29617000
+Kolkata,IND,Asia,17560000
+Mumbai,IND,Asia,23355000
+Surabaya,IDN,Asia,4975000
+Jakarta,IDN,Asia,34540000
+Rome,ITA,Europe,2872800
+Milan,ITA,Europe,1351562
+Florence,ITA,Europe,382258
+Tokyo,JPN,Asia,37977000
+Osaka,JPN,Asia,14977000
+Hiroshima,JPN,Asia,1306589
+Amman,JOR,Asia,4007526
+Az Zarqa',JOR,Asia,481300
+Lagos,NGA,Africa,15279000
+Benin City,NGA,Africa,1190000
+Karachi,PAK,Asia,14835000
+Lahore,PAK,Asia,11021000
+Manila,PHI,Asia,23088000
+Davao,PHI,Asia,1632991
+Riyadh,SAU,Asia,6881000
+Mecca,SAU,Asia,1700000
+Jeddah,SAU,Asia,3976000
+Medina,SAU,Asia,1180770
+Ad Dammam,SAU,Asia,903312
+Stockholm,SWE,Europe,972647
+Gothenburg,SWE,Europe,600473
+Zurich,SUI,Europe,434008
+Bern,SUI,Europe,133798
+Bangkok,THA,Asia,17066000
+Nonthaburi,THA,Asia,255671
+Istanbul,TUR,Europe,15154000
+Ankara,TUR,Europe,5503985
+London,GBR,Europe,10979000
+Manchester,GBR,Europe,2705000
+Newcastle,GBR,Europe,1650000
+Liverpool,GBR,Europe,864122
+New York,USA,North America,18713220
+Los Angeles,USA,North America,12750807
+Las Vegas,USA,North America,2104198
+Brooklyn,USA,North America,2559903
+Manhattan,USA,North America,1628706
+Ho Chi Minh City,VIE,Asia,13312000
+Hanoi,VIE,Asia,7785000
